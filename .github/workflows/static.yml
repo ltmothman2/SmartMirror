@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Mirror - Tecnología Innovadora</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header, footer { background: #333; color: white; text-align: center; padding: 20px; }
+        .section { padding: 40px; text-align: center; }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Smart Mirror - El espejo del futuro</h1>
+</header>
+<section class="section" id="descripcion">
+    <h2>Descripción</h2>
+    <p>El Smart Mirror es un espejo inteligente que muestra información en tiempo real, como el clima, noticias y eventos de tu agenda.</p>
+</section>
+
+<section class="section" id="caracteristicas">
+    <h2>Características</h2>
+    <ul>
+        <li>Pantalla táctil integrada</li>
+        <li>Conectividad Wi-Fi y Bluetooth</li>
+        <li>Compatible con asistentes de voz</li>
+        <li>Personalización de widgets</li>
+    </ul>
+</section>
+
+<section class="section" id="comprar">
+    <h2>¿Dónde comprar?</h2>
+    <p>Puedes adquirir el Smart Mirror en tiendas de tecnología y plataformas en línea.</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Smart Mirror Tech</p>
+</footer>
+
+</body>
+</html>
